@@ -49,6 +49,10 @@ Add following entry
     }
 
 
-##### Step 6
+##### Step 6 Start nginx
 ./nginx
+
+
+#### Step 7 create username  password file
+sudo htpasswd -c /etc/nginx/.htpasswd sammy
 

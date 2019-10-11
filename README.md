@@ -56,3 +56,5 @@ Add following entry
 #### Step 7 create username  password file
 sudo htpasswd -c /etc/nginx/.htpasswd sammy
 
+
+//centos location /usr/local/nginx/conf
